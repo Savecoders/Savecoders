@@ -15,7 +15,7 @@
 
 <p><img align="left" width="380"  src="https://github-readme-stats.vercel.app/api/top-langs?username=savecoders&show_icons=true&locale=en&layout=compact" alt="savecoders" /></p>
 
-<p>&nbsp;<img align="center" width="460" src="https://github-readme-stats.vercel.app/api?username=savecoders&show_icons=true&locale=en" alt="savecoders" /></p>
+<p>&nbsp;<img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=savecoders&show_icons=true&locale=en" alt="savecoders" /></p>
 
 <p align="left">
 <h3>Connect with me: </h3>
