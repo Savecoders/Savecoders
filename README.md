@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://www.hackerrank.com/savecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="savecoder" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/savecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="savecoder" height="30" width="40" /></a>
-<a href="https://discord.gg/Save75#7529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Save75#7529" height="30" width="40" /></a>
+<a href="https://discord.gg/QaR4MNvA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Save75#7529" height="30" width="40" /></a>
+<a href="https://dev.to/savecoders" target="blank"><img align="center" src="https://iconape.com/wp-content/files/ga/11469/png/dev.png" alt="Save75#7529" height="30" width="40" /></a>
 </p>
 </p>
