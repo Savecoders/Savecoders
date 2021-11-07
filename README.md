@@ -12,7 +12,7 @@
 	src="https://media.giphy.com/media/xThta0yq8q9JwHL8kg/giphy.gif"
 />
 
-- 👯 I’m looking to collaborate on [PcmasterApp](https://pcmaster-race.herokuapp.com/) 
+<!--👯 I’m looking to collaborate on [PcmasterApp](https://pcmaster-race.herokuapp.com/) -->
 - 💬 Ask me about **Javascript, ZshThemes, Linux and web development<img src="https://media.giphy.com/media/j3fdZ1QIhCpBlWUONw/giphy.gif" width="25" />** 
 - 📫How to reach me **pablopincay2003@gmail.com** 
 - ⚡ Fun fact **my favorite hobbies is practice speed cube, read books📕, play video games 🎮, enjoy to nice cup of coffee**
