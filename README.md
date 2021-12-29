@@ -14,7 +14,6 @@
 
 <!--👯 I’m looking to collaborate on [PcmasterApp](https://pcmaster-race.herokuapp.com/) -->
 - 💬 Ask me about **Javascript, ZshThemes, Linux and web development<img src="https://media.giphy.com/media/j3fdZ1QIhCpBlWUONw/giphy.gif" width="25" />** 
-- 📫How to reach me **pablopincay2003@gmail.com** 
 - ⚡ Fun fact **my favorite hobbies is practice speed cube, read books📕, play video games 🎮, enjoy to nice cup of coffee**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -63,14 +62,6 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 			alt="react"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://expressjs.com" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-			alt="express"
 			width="40"
 			height="40"
 		/>
