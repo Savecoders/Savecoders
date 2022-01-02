@@ -125,7 +125,7 @@
 			title="My server"
 			src="https://shields.io/badge/-DISCORD-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"
 	/></a>
-	<a href="https://twitter.com/Save75"
+	<a href="https://twitter.com/PabloPincay75"
 		><img
 			alt="Twitter"
 			title="twitter"
