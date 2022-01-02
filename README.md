@@ -14,6 +14,7 @@
 
 <!--👯 I’m looking to collaborate on [PcmasterApp](https://pcmaster-race.herokuapp.com/) -->
 - 💬 Ask me about **Javascript, ZshThemes, Linux and web development<img src="https://media.giphy.com/media/j3fdZ1QIhCpBlWUONw/giphy.gif" width="25" />** 
+- 🎢 tried to improve both in the world of software development and my soft skills to be very helpful to many people
 - ⚡ Fun fact **my favorite hobbies is practice speed cube, read books📕, play video games 🎮, enjoy to nice cup of coffee**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -124,7 +125,7 @@
 			title="My server"
 			src="https://shields.io/badge/-DISCORD-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"
 	/></a>
-	<a href="https://twitter.com/PabloPincay7"
+	<a href="https://twitter.com/Save75"
 		><img
 			alt="Twitter"
 			title="twitter"
