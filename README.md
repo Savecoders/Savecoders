@@ -93,23 +93,6 @@
 	</a>
 </p>
 
-<h3>My activities</h3>
-
-<a href="https://github.com/toninow/github-readme-stats">
-	<img
-		width="450"
-		height="170"
-		align="center"
-		src="https://github-readme-stats.vercel.app/api?username=Savecoders&theme=github_dark&show_icons=true&hide_border=true"
-	/>
-</a>
-<a href="https://github.com/toninow/github-readme-stats">
-	<img
-		align="center"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaveCoders&theme=github_dark&show_icons=true&layout=compact&hide_border=true"
-	/>
-</a>
-
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
