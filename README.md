@@ -99,12 +99,7 @@
 	title="readme-stats"
 	src="https://github-readme-stats.vercel.app/api?username=Savecoders&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
 	/>
-<img
-	alt="readme-streak-stats"
-	title="readme-streak-stats"
-	src="https://github-readme-streak-stats.herokuapp.com/?user=Savecoders&theme=tokyonight&hide_border=false"
-	/>	
-	
+
 <img
 	alt="top-langs"
 	title="top-langs"
