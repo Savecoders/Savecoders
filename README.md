@@ -77,7 +77,7 @@
 	</a>
 	<a href="https://firebase.google.com/" target="_blank">
 		<img
-			src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+			src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
 			alt="firebase"
 			width="40"
 			height="40"
