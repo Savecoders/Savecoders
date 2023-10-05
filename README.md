@@ -7,17 +7,16 @@
  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30" />
 </h3>
 
-<div style="display: flex; justify-content: space-evenly;">
-
- <p style="padding: 10px; white-space: warp">
- My name is Pablo Pincay, I am a 20 year old Ecuadorian developer.
- I am currently studying Software Engineering at the University of Guayaquil. I am a self-taught person, I like to learn new things every day, I am passionate about technology and programming. I like to help people and share my knowledge with them.
- </p>
- <img
+<img
+ align="right"
  width="200"
  src="https://media.giphy.com/media/xThta0yq8q9JwHL8kg/giphy.gif"
- />
-</div>
+/>
+
+- My name is **Pablo Pincay**, I am a 20 year old Ecuadorian developer 🎢.
+- I am currently studying **Software Engineering** at the University of Guayaquil.
+- I am a self-taught person, I like to learn new things every day, I am passionate about technology and programming 📕.
+- I like to help people and share my knowledge with them ⚡.
 
 # 💻 Tech Stack
 
@@ -70,9 +69,6 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=Savecoders&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
