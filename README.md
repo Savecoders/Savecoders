@@ -3,22 +3,24 @@
  I'm Save
 </h2>
 <h3 align="center">
- A passionate frontend developer
+ Software Engineer
  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30" />
 </h3>
 
 <img
  align="right"
- width="200"
+ width="320"
  src="https://media.giphy.com/media/xThta0yq8q9JwHL8kg/giphy.gif"
 />
 
-- My name is **Pablo Pincay**, I am a 20 year old Ecuadorian developer 🎢.
-- I am currently studying **Software Engineering** at the University of Guayaquil.
-- I am a self-taught person, I like to learn new things every day, I am passionate about technology and programming 📕.
-- I like to help people and share my knowledge with them ⚡.
+My name is **Pablo Pincay**, I am a 20 year old Ecuadorian web developer.
+I am currently studying **Software Engineering** at the University of Guayaquil.
+I am a self-taught person, who likes and wants to learn new things every day, like new technologies, Frameworks. 
+I like to help people and share my knowledge. 
 
-# 💻 Tech Stack
+### 💻 Tech Stack
+These are some of the technologies I have used throughout my career, either for work or for personal projects.
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -30,7 +32,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -38,7 +39,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=flat&logo=deno&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
@@ -47,12 +47,11 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Postgre](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
@@ -60,9 +59,8 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Savecoders&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Savecoders&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Savecoders&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
@@ -87,7 +85,13 @@
    title="My server"
    src="https://shields.io/badge/-DISCORD-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"
  /></a>
- <a href="https://twitter.com/PabloPincay75"
+ <a href="https://www.linkedin.com/in/pablo-pincay-alvarez-37a41520b/"
+  ><img
+   alt="Linkedin"
+   title="Linkedin Profile"
+   src="https://shields.io/badge/-linkedin-21252b.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"
+ /></a>
+ <a href="https://twitter.com/Save75_"
   ><img
    alt="Twitter"
    title="twitter"
