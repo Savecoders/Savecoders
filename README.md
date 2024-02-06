@@ -17,6 +17,14 @@ My name is **Pablo Pincay**, I am a 20 year old Ecuadorian web developer.
 I am currently studying **Software Engineering** at the University of Guayaquil.
 I am a self-taught person, who likes and wants to learn new things every day, like new technologies, Frameworks. 
 I like to help people and share my knowledge. 
+<p align="Left">
+ <a href="https://cdn.discordapp.com/attachments/836475058808422410/1204250934033522708/CV.pdf?ex=65d40d14&is=65c19814&hm=3147bbcb78c4e8aa2aea2938b90e5c517c34b27e7920f44d47e3fcd9703a622c&"
+  ><img
+   alt="CV"
+   title="Download CV"
+   src="https://shields.io/badge/-Download CV-1E1F26.svg?&style=for-the-badge&logo=Codepen&logoColor=white"
+ /></a>
+</p>
 
 ### 💻 Tech Stack
 These are some of the technologies I have used throughout my career, either for work or for personal projects.
@@ -85,7 +93,7 @@ These are some of the technologies I have used throughout my career, either for 
    title="My server"
    src="https://shields.io/badge/-DISCORD-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"
  /></a>
- <a href="https://www.linkedin.com/in/pablo-pincay-alvarez-37a41520b/"
+ <a href="https://www.linkedin.com/in/pablopincaya/"
   ><img
    alt="Linkedin"
    title="Linkedin Profile"
