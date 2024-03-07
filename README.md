@@ -1,23 +1,21 @@
-<h2 align="center">
- <img src="https://media.giphy.com/media/COvPi2jXLV8XFOnLFz/giphy.gif" width="50" /> Hi,
- I'm Save
-</h2>
-<h3 align="center">
- Software Engineer
- <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30" />
-</h3>
+ <p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
+ <br>
 
-<img
- align="right"
- width="320"
- src="https://media.giphy.com/media/xThta0yq8q9JwHL8kg/giphy.gif"
-/>
+ <p align="center">
+      Hello, I am Savecoders (Pablo Pincay A)<br>
+      <br>
+      <samp>I am a front-end dev and Linux enthusiast<br></samp>
+  </p>
 
-My name is **Pablo Pincay**, I am a 20 year old Ecuadorian web developer.
-I am currently studying **Software Engineering** at the University of Guayaquil.
-I am a self-taught person, who likes and wants to learn new things every day, like new technologies, Frameworks. 
-I like to help people and share my knowledge. 
-<p align="Left">
+<br>
+
+<p align="center">
+   Currently I am studying <b>Software Engineering</b> at the University of Guayaquil.
+   Im a self-taught person, who likes and wants to learn new things every day, such as new technologies, Frameworks. 
+   I like helping people and sharing my knowledge.
+ </p>
+
+<p align="right">
  <a href="https://cdn.discordapp.com/attachments/836475058808422410/1204250934033522708/CV.pdf?ex=65d40d14&is=65c19814&hm=3147bbcb78c4e8aa2aea2938b90e5c517c34b27e7920f44d47e3fcd9703a622c&"
   ><img
    alt="CV"
@@ -25,6 +23,8 @@ I like to help people and share my knowledge.
    src="https://shields.io/badge/-Download CV-1E1F26.svg?&style=for-the-badge&logo=Codepen&logoColor=white"
  /></a>
 </p>
+
+<br>
 
 ### 💻 Tech Stack
 These are some of the technologies I have used throughout my career, either for work or for personal projects.
