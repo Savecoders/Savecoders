@@ -67,16 +67,6 @@ These are some of the technologies I have used throughout my career, either for 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
-### 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Savecoders&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Savecoders&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h3 align="center">Connect with me</h3>
 
