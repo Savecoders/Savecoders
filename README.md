@@ -1,11 +1,11 @@
  <p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
  <br>
 
- <header align="center">
+ <div align="center">
       Hello, I am Savecoders <a href="https://www.linkedin.com/in/pablopincaya/">(Pablo Pincay A)</a> 🧑🏻 <br>
       <br>
       <samp>I am a Front-end dev and Linux enthusiast<br></samp>
-</header>
+</div>
 
 <div align="center">
    <br>
