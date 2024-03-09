@@ -1,19 +1,19 @@
  <p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
  <br>
 
- <p align="center">
-      Hello, I am Savecoders (Pablo Pincay A)<br>
+ <header align="center">
+      Hello, I am Savecoders <a href="https://www.linkedin.com/in/pablopincaya/">(Pablo Pincay A)</a> 🧑🏻 <br>
       <br>
-      <samp>I am a front-end dev and Linux enthusiast<br></samp>
-  </p>
+      <samp>I am a Front-end dev and Linux enthusiast<br></samp>
+</header>
 
-<br>
-
-<p align="center">
-   Currently I am studying <b>Software Engineering</b> at the University of Guayaquil.
+<div align="center">
+   <br>
+   Currently I am studying <b>Software Engineering</b> at the University of Guayaquil. <br>
+   <br>
    Im a self-taught person, who likes and wants to learn new things every day, such as new technologies, Frameworks. 
    I like helping people and sharing my knowledge.
- </p>
+</div>
 
 <p align="right">
  <a href="https://cdn.discordapp.com/attachments/836475058808422410/1204250934033522708/CV.pdf?ex=65d40d14&is=65c19814&hm=3147bbcb78c4e8aa2aea2938b90e5c517c34b27e7920f44d47e3fcd9703a622c&"
@@ -24,51 +24,12 @@
  /></a>
 </p>
 
-<br>
-
-### 💻 Tech Stack
-These are some of the technologies I have used throughout my career, either for work or for personal projects.
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
-![Postgre](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-
-
-<h3 align="center">Connect with me</h3>
+| 🎓 Skills Trident       | Content                                                                                                                                     |
+| :---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 💻 _Web Development_    | `HTML/CSS` `Javascript` `React` `Git` `Node` `Prisma` `OracleDB` `Express` `Next` `Astro` `TailwindCSS` `Bootstrap` `Python` `Java` `Flask` |
+| 🤌🏻 _Industry Knowledge_ | `Software Developer` `User Experience` `User Interface` `SaaS` `Marketing Sites`                                                            |
+| 🧰 _Tools_              | `Figma` `Webflow` `Docker` `Cloudinary` `Linux` `WSL2` `Draw.IO`                                                                            |
+| 🧘 _Learning_           | `PostgreSql` `Docker` `Nest` `NetCore` `Stripe` `Rust`                                                                                      |
 
 <p align="center">
  <a href="https://dev.to/Savecoders"
@@ -102,6 +63,3 @@ These are some of the technologies I have used throughout my career, either for 
    src="https://shields.io/badge/-CODEPEN-1E1F26.svg?&style=for-the-badge&logo=Codepen&logoColor=white"
  /></a>
 </p>
-
----
-[![](https://visitcount.itsvg.in/api?id=Savecoders&icon=coder&color=1)](https://visitcount.itsvg.in)
