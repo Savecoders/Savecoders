@@ -30,3 +30,7 @@
   <samp>If you are interested you can visit my <a href="https://myportfolio-savecoders.vercel.app/es">portfolio</a> ❤</samp>
   <br>
 </p>
+
+<a href="#">
+    <img alt="" align="right" src="https://badges.pufler.dev/visits/Savecoders/Savecoders?style=for-the-badge&color=7ddac5&logoColor=white&labelColor=7ddac5"/>
+  </a>
