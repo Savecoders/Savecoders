@@ -19,10 +19,10 @@
 
 | 🎓 Skills Trident       | Content                                                                                                                                     |
 | :---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 💻 _Web Development_    | `HTML/CSS` `Javascript` `React` `Git` `Node` `Prisma` `OracleDB` `Express` `Next` `Astro` `TailwindCSS` `Bootstrap` `Python` `Java` `Flask` |
-| 🤌🏻 _Industry Knowledge_ | `Software Developer` `User Experience` `User Interface` `SaaS` `Marketing Sites`                                                            |
+| 💻 _Web Development_    | `HTML/CSS` `Javascript` `TailwindCSS` `React` `Zustant or Redux` `Git` `Nodejs` `Typescript` `OracleDB` `Express` `Next` `Nestjs` `Python` `Java` `Flask` |
+| 🤌🏻 _Design Thinking_ | `User Experience` `User Interface` `User Person` `Heuristic Evaluation` `SaaS`                                                             |
 | 🧰 _Tools_              | `Figma` `Webflow` `Docker` `Cloudinary` `Linux` `WSL2` `Draw.IO`                                                                            |
-| 🧘 _Learning_           | `PostgreSql` `Docker` `Nest` `NetCore` `Stripe` `Rust`                                                                                      |
+| 🧘 _Learning_           | `PostgreSql` `Docker` `Hugging Face` `Stripe`                                                                                      |
 
 <hr/>
 <br>
