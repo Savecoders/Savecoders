@@ -4,7 +4,7 @@
  <div align="center">
       Hello, I am Savecoders <a href="https://www.linkedin.com/in/pablopincaya/">(Pablo Pincay A)</a> 🧑🏻 <br>
       <br>
-      <samp>I am a Front-end dev and Linux enthusiast<br></samp>
+      <samp>I am a Front-end dev and UX History<br></samp>
 </div>
 
 <div align="center">
