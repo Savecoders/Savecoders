@@ -29,12 +29,6 @@
 <hr/>
 <br>
 
-<div align="center" style="display: flex; width: 100%; gap:120px">
-   
-   <img style="margin: 0.5rem" alt="savecoders's Github stats" src="https://github-readme-stats.vercel.app/api?username=Savecoders&bg_color=40,0D1117,151B23&title_color=007AFF&text_color=FFFFFE&show_icons=true&border_color=3D444D&border_radius=12" />
-
-   
-</div>
 
 <p align="right"> 
   <samp>If you are interested you can visit my <a href="https://myportfolio-savecoders.vercel.app/es">portfolio</a> ❤</samp>
