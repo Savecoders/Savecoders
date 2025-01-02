@@ -1,14 +1,9 @@
- <p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
- <br>
-
- <div align="center">
-      Hello, I am Savecoders <a target="blank" href="https://www.linkedin.com/in/pablopincaya/">(Pablo Pincay A)</a> 🧑🏻 <br>
-      <br>
-      <samp>I am a Front-end dev and UX History<br></samp>
+<p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
+<br>
+<div align="center">
+      <h3>Hello, I am Savecoders <a target="blank" href="https://www.linkedin.com/in/pablopincaya/">(Pablo Pincay A)</a> 🧑🏻 <br></h3>
+      <h4><samp>I am a Front-end dev and UX History<br></samp></h4>
 </div>
-
-
-
 <div align="center">
    <br>
    Currently I am studying <b>Software Engineering</b> at the University of Guayaquil. <br>
