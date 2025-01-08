@@ -1,8 +1,8 @@
 <p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
 <br>
 <div align="center">
-      <h3>Hello, I am Savecoders <a target="blank" href="https://www.linkedin.com/in/pablopincaya/">(Pablo Pincay A)</a> 🧑🏻 <br></h3>
-      <h4><samp>I am a Front-end dev and UX History<br></samp></h4>
+      <h2>Hello, I am Savecoders <a target="blank" href="https://www.linkedin.com/in/pablopincaya/">(Pablo Pincay A)</a> 🧑🏻 <br></h2>
+      <h3><samp>I am a Front-end dev and UX History<br></samp></h3>
 </div>
 <div align="center">
    <br>
