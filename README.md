@@ -16,10 +16,10 @@
 
 | 🎓 Skills Trident       | Content                                                                                                                                     |
 | :---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 💻 _Web Development_    | `HTML/CSS` `Javascript` `TailwindCSS` `React` `Zustant or Redux` `Git` `Nodejs` `Typescript` `OracleDB` `Express` `Next` `Nestjs` `Python` `Java` `Flask` |
-| 🤌🏻 _Design Thinking_ | `User Experience` `User Interface` `User Person` `Heuristic Evaluation` `SaaS` `Prototype` `Shadowing` `Double Diamond` `Think Aloud`                                                            |
+| 💻 _Web Development_    | `HTML/CSS` `Javascript` `TailwindCSS` `React` `Zustant or Redux` `Git` `Nodejs/Bun` `Typescript` `OracleDB` `Express.js` `Next` `Nestjs` `Python` `Java` `Flask` `Astro` `Kafka` |
+| 🤌🏻 _Design Thinking_ | `User Experience` `User Interface` `User Person` `Usability Test` `Heuristic Evaluation` `SaaS` `Prototype` `Double Diamond` `Think Aloud`                                                            |
 | 🧰 _Tools_              | `Figma` `Webflow` `Docker` `Cloudinary` `Linux` `WSL2` `Draw.IO` `Excalidraw`                                                                          |
-| 🧘 _Learning_           | `PostgreSql` `Astro` `Hugging Face` `Stripe`                                                                                      |
+| 🧘 _Learning_           | `Github Actions` `Angular` `Cloudflware` `Flutter`                                                                                     |
 
 <hr/>
 <br>
